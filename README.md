@@ -21,4 +21,5 @@ Roles and Responsibilty:
 2. Exploratory Data Analysis: Explored data relationships and identified key patterns influencing survival.
 
 3.Feature Engineering: Transformed data by encoding categories and scaling numerical features.
+
 4. Visualization and Reporting: Presented insights using visualizations to summarize findings.
